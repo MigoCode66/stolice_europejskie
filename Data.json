@@ -1,0 +1,30 @@
+{
+  "France": {
+    "name": "Paryż",
+    "descripton": "Paryż, stolica Francji, jest jednym z najbardziej znanych iodwiedzanych miast na świecie. Położony nad Sekwaną, słynie zzabytków, kultury i wyjątkowej atmosfery.",
+    "flag": "/France.png",
+    "image": "/paris.png",
+    "href": "./Paryz"
+  },
+  "Austria": {
+    "name": "Wiedeń",
+    "descripton": "Wiedeń, stolica Austrii, to miasto o bogatej historii i niezwykłej architekturze. Słynie z zabytków, takich jak Pałac Schönbrunn, Katedra św. Szczepana, Hofburg oraz Opera Wiedeńska. To także miasto muzyki, związane z takimi kompozytorami jak Mozart, Beethoven i Strauss. Wiedeń jest znany ze swojej kawowej kultury – warto spróbować słynnej Sachertorte oraz tradycyjnej kawy Wiener Melange.",
+    "flag": "/Austria.png",
+    "image": "/Viennia.png",
+    "href": "./Wieden"
+  },
+  "Warszawa": {
+    "name": "Warszawa",
+    "descripton": "Warszawa, stolica Polski, to miasto o fascynującej historii, dynamicznie rozwijającej się kulturze i unikalnym charakterze. Po niemal całkowitym zniszczeniu podczas II wojny światowej, miasto przeszło imponującą odbudowę, łącząc nowoczesność z zachowanymi śladami przeszłości.",
+    "flag": "/Poland.png",
+    "image": "/Warszawa.png",
+    "href": "./Warszawa"
+  },
+  "Dania": {
+    "name": "Kopenchaga",
+    "descripton": "Dania, kraj położony w północnej Europie, to miejsce, gdzie historia, kultura i nowoczesność współistnieją w harmonii. Znana z pięknych krajobrazów, bogatej tradycji i wysokiej jakości życia, Dania przyciąga zarówno turystów",
+    "flag": "/Dania.png",
+    "image": "/Kopenhaga.png",
+    "href": "./Kopenchaga"
+  }
+}
